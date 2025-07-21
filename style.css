@@ -1,13 +1,15 @@
-part1 {
+#part1 {
   background-color: white;
   border: 5px solid black;
   padding: 20px;
 }
-part2{
+
+#part2 {
   background-color: white;
   border: 5px solid black;
   padding: 20px;
 }
+
 h3 {
   color: black;
   font-family: Arial, sans-serif;
