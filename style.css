@@ -1,7 +1,7 @@
 body {
   background-color: white;
-  border: 20px; black;
-  
+  border: 5px solid black;
+  padding: 20px;
 }
 
 h3 {
