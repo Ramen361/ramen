@@ -27,5 +27,8 @@ h3 {
   cursor: pointer;
 }
 body {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaU3KNSKSYAFS3LaFDyz-oCKL4E2XtAZ7ZQ&s");align-center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaU3KNSKSYAFS3LaFDyz-oCKL4E2XtAZ7ZQ&s");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
